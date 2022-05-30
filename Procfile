@@ -1,2 +1,1 @@
-npm start
-npm run start:backend 
+node index.js
